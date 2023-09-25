@@ -18,10 +18,9 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?jjjulietta)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jjjulietta)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jjjulietta)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jjjulietta)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Jjjulietta/Jjjulietta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
