@@ -18,11 +18,9 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjjulietta&theme=solarized_dark)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jjjulietta)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jjjulietta)](https://github.com/Jjjulietta/github-readme-stats)
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jjjulietta)](https://github.com/jjjulietta/github-readme-activity-graph)
 
 ![](https://komarev.com/ghpvc/?username=Jjjulietta)
 <!--
