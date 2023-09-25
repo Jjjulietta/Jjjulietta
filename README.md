@@ -18,6 +18,8 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jjjulietta)](https://github.com/Jjjulietta/github-readme-stats)
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjjulietta&theme=solarized_dark)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jjjulietta)](https://git.io/streak-stats)
