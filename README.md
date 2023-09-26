@@ -1,15 +1,15 @@
-### Hi there! I'm Julia 👋
+## Hi there! I'm Julia 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Junior+Frontend+Developer)](https://git.io/typing-svg)
 
-📋 Languages:
+### 📋 Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-📚 Frameworks, Platforms and Libraries:
+### 📚 Frameworks, Platforms and Libraries:
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
@@ -29,18 +29,18 @@
 
 ![](https://komarev.com/ghpvc/?username=Jjjulietta)
 
-### [My Projects](https://github.com/Jjjulietta#fire-my-projects-)
+## [My Projects](https://github.com/Jjjulietta#fire-my-projects-)
 
-## [Shelter](https://github.com/Jjjulietta/async-race/pull/1)
+### [Shelter](https://github.com/Jjjulietta/async-race/pull/1)
 
 deploy: [Shelter-main-page](https://jjjulietta.github.io/async-race/shelter/pages/main/), 
         [Shelter-pets-page](https://jjjulietta.github.io/async-race/shelter/pages/pets/)
 
-## [Virtual-keyboard](https://github.com/Jjjulietta/virtual-keyboard/tree/development)
+### [Virtual-keyboard](https://github.com/Jjjulietta/virtual-keyboard/tree/development)
 
 deploy: [virtual-keyboard](https://jjjulietta.github.io/virtual-keyboard/src/)
 
-## [Minesweeper](https://github.com/rolling-scopes-school/jjjulietta-JSFE2023Q1/pull/20)
+### [Minesweeper](https://github.com/rolling-scopes-school/jjjulietta-JSFE2023Q1/pull/20)
 
 deploy: [minesweeper](https://jjjulietta.github.io/async-race/minesweeper/src/)
 
