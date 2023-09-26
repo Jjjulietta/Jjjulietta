@@ -34,6 +34,10 @@
 
 ## [My Projects](https://github.com/Jjjulietta#fire-my-projects-)
 
+### [Plants](https://github.com/Jjjulietta/rs-pre/tree/main/plants)
+
+deploy: [Plants](https://jjjulietta.github.io/rs-pre/plants/)
+
 ### [Momentum](https://github.com/Jjjulietta/rs-pre/tree/main/momentum)
 
 deploy: [Momentum](https://jjjulietta-momentum.netlify.app/)
