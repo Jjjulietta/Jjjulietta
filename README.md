@@ -28,6 +28,16 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jjjulietta&theme=solarized_dark)
 
 ![](https://komarev.com/ghpvc/?username=Jjjulietta)
+
+![My Projects](https://github.com/Jjjulietta#fire-my-projects-)
+
+![virtual-keyboard](https://github.com/Jjjulietta/virtual-keyboard/tree/development)
+
+Deploy: [virtual-keyboard](https://jjjulietta.github.io/virtual-keyboard/src/)
+
+
+
+
 <!--
 **Jjjulietta/Jjjulietta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
