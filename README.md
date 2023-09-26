@@ -27,7 +27,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jjjulietta&theme=solarized_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jjjuliett&layout=compact)](https://github.com/Jjjulietta/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jjjulietta&layout=compact)](https://github.com/Jjjulietta/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=Jjjulietta)
 
