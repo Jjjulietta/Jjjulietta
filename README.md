@@ -27,7 +27,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jjjulietta&theme=solarized_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jjjulietta&layout=compact)](https://github.com/Jjjulietta/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=Jjjulietta)
 
@@ -45,6 +44,10 @@ deploy: [virtual-keyboard](https://jjjulietta.github.io/virtual-keyboard/src/)
 ### [Minesweeper](https://github.com/rolling-scopes-school/jjjulietta-JSFE2023Q1/pull/20)
 
 deploy: [minesweeper](https://jjjulietta.github.io/async-race/minesweeper/src/)
+
+### [Rss-css-selectors](https://github.com/Jjjulietta/async-race/tree/rss-css-selectors/rss-css-selectors)
+
+deploy: [rss-css-selectors](https://jjjulietta.github.io/async-race/rss-css-selectors/)
 
 
 
