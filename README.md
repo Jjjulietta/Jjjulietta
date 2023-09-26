@@ -43,11 +43,11 @@ deploy: [Shelter-main-page](https://jjjulietta.github.io/async-race/shelter/page
 
 deploy: [virtual-keyboard](https://jjjulietta.github.io/virtual-keyboard/src/)
 
-### [Minesweeper](https://github.com/rolling-scopes-school/jjjulietta-JSFE2023Q1/pull/20)
+### [Minesweeper](https://github.com/Jjjulietta/async-race/tree/main/minesweeper)
 
 deploy: [minesweeper](https://jjjulietta.github.io/async-race/minesweeper/src/)
 
-### [Rss-css-selectors](https://github.com/Jjjulietta/async-race/tree/rss-css-selectors/rss-css-selectors)
+### [Rss-css-selectors](https://github.com/Jjjulietta/async-race/tree/main/rss-css-selectors)
 
 deploy: [rss-css-selectors](https://jjjulietta.github.io/async-race/rss-css-selectors/)
 
