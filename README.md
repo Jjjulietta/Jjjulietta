@@ -30,6 +30,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Jjjulietta)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jjjulietta&layout=compact)](https://github.com/Jjjulietta/github-readme-stats)
+
 ## [My Projects](https://github.com/Jjjulietta#fire-my-projects-)
 
 ### [Shelter](https://github.com/Jjjulietta/async-race/pull/1)
