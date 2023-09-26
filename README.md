@@ -34,6 +34,10 @@
 
 ## [My Projects](https://github.com/Jjjulietta#fire-my-projects-)
 
+### [Momentum](https://github.com/Jjjulietta/rs-pre/tree/main/momentum)
+
+deploy: [Momentum](https://jjjulietta-momentum.netlify.app/)
+
 ### [Shelter](https://github.com/Jjjulietta/async-race/pull/1)
 
 deploy: [Shelter-main-page](https://jjjulietta.github.io/async-race/shelter/pages/main/), 
