@@ -33,7 +33,7 @@
 
 [Shelter](https://github.com/Jjjulietta/async-race/pull/1)
 
-deploy: [Shelter-main-page](https://jjjulietta.github.io/async-race/shelter/pages/main/)
+deploy: [Shelter-main-page](https://jjjulietta.github.io/async-race/shelter/pages/main/), 
         [Shelter-pets-page](https://jjjulietta.github.io/async-race/shelter/pages/pets/)
 
 [Virtual-keyboard](https://github.com/Jjjulietta/virtual-keyboard/tree/development)
@@ -42,7 +42,7 @@ deploy: [virtual-keyboard](https://jjjulietta.github.io/virtual-keyboard/src/)
 
 [Minesweeper](https://github.com/rolling-scopes-school/jjjulietta-JSFE2023Q1/pull/20)
 
-deploy: (https://jjjulietta.github.io/async-race/minesweeper/src/)
+deploy: [minesweeper](https://jjjulietta.github.io/async-race/minesweeper/src/)
 
 
 
