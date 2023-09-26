@@ -29,9 +29,9 @@
 
 ![](https://komarev.com/ghpvc/?username=Jjjulietta)
 
-![My Projects](https://github.com/Jjjulietta#fire-my-projects-)
+[My Projects](https://github.com/Jjjulietta#fire-my-projects-)
 
-![virtual-keyboard](https://github.com/Jjjulietta/virtual-keyboard/tree/development)
+[virtual-keyboard](https://github.com/Jjjulietta/virtual-keyboard/tree/development)
 
 Deploy: [virtual-keyboard](https://jjjulietta.github.io/virtual-keyboard/src/)
 
