@@ -3,6 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Junior+Frontend+Developer)](https://git.io/typing-svg)
 
 ### [CV](https://jjjulietta.github.io/CV/src/)
+==============================================
 
 ### 📋 Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
