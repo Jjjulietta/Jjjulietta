@@ -1,6 +1,6 @@
 ## Hi there! I'm Julia 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Junior+Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+Developer)](https://git.io/typing-svg)
 
 ### [CV](https://jjjulietta.github.io/CV/src/)
 
